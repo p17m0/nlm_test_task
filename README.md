@@ -8,11 +8,6 @@
 git clone https://github.com/p17m0/nlm_test_task
 cd data_from_sheets/kanal_service/nlm_test_task
 ```
-Cоздать и активировать виртуальное окружение:
-```
-python -m venv env
-source env/Scripts/activate
-```
 Переместить файл .csv с названием 'test_data.csv', запустить скрипт командой:
 ```
 python script_for_data.py
